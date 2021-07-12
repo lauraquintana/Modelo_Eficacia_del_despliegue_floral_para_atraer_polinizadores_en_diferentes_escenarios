@@ -1,1 +1,4 @@
-# Modelo_Eficacia_del_despliegue_floral_para_atraer_polinizadores_en_diferentes_escenarios
+# Modelo Eficacia del despliegue floral para atraer polinizadores en diferentes escenarios
+
+
+Modelo creado en Netlogo por Laura Quintana Portales 2020/2021
